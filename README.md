@@ -21,6 +21,7 @@
     <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/Docker-007396?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" alt="Kubernetes" />
     <img src="https://img.shields.io/badge/Jenkins-007396?style=for-the-badge&logo=jenkins&logoColor=orange" alt="Jenkins" />
 </div>
 
