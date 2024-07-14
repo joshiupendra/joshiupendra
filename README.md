@@ -30,8 +30,10 @@
     <p>Frameworks are the backbone of my development process, providing the structure and tools necessary for building scalable, efficient applications. My expertise spans a broad spectrum of frameworks, each chosen for its ability to facilitate rapid development and deliver robust functionality</p>
     <img alt="Spring Boot" src="https://img.shields.io/badge/SpringBoot-007396?style=for-the-badge&logo=spring%20boot&labelColor=orange&color=orange">
     <img alt="Angular" src="https://img.shields.io/badge/Angular-007396?style=for-the-badge&logo=angular&labelColor=red&color=red">
+    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img alt="NodeJS" src="https://img.shields.io/badge/Node.JS-007396?style=for-the-badge&logo=node.js&labelColor=green&color=green">
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-007396?style=for-the-badge&logo=bootstrap&labelColor=purple&color=purple">
+    <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </div>
