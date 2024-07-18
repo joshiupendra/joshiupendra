@@ -55,7 +55,7 @@
  <table align="center" width="100%" height="100%" >
     <tr>
        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joshiupendra&theme=github_dark" alt="Upendra's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=joshiupendra&theme=merko"+ new Date().getTime() alt="Upendra's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=joshiupendra&theme=merko?" alt="Upendra's Contribution Streak"/></td>
     </tr>
  </table>
 <table align="center" width="100%" height="100%" >
