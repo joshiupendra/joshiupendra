@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
 </div>
 
-<div align="center>
+<div align="center">
     <h2 class="section-heading">🧑‍💻 GitHub Projects</h2>
     - [Book Social Network](/book-social-network/README.md)
     - [E-Commerce Platform using Spring Boot 3 Microservices](/spring-boot-3-microservices/README.md)
