@@ -40,9 +40,11 @@
 
 <div align="center">
     <h2 class="section-heading">🧑‍💻 GitHub Projects</h2>
+
 [Book Social Network](https://github.com/joshiupendra/book-social-network/README.md)
 [E-Commerce Platform using Spring Boot 3 Microservices](https://github.com/joshiupendra/spring-boot-3-microservices/README.md)
 [Spring Security Project using OAuth2](https://github.com/joshiupendra/Spring-Security-project/README.md)
+
 </div>
 
 <div align="center">
