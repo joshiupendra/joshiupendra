@@ -20,6 +20,9 @@
     <h2 class="section-heading">☁️ Cloud Technologies</h2>
     <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
     <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+
+[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
     <img src="https://img.shields.io/badge/Docker-007396?style=for-the-badge&logo=docker&logoColor=blue" alt="Docker" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=fff" alt="Kubernetes" />
     <img src="https://img.shields.io/badge/Jenkins-007396?style=for-the-badge&logo=jenkins&logoColor=orange" alt="Jenkins" />
@@ -47,6 +50,14 @@
 [E-Commerce Platform using Spring Boot 3 Microservices](https://github.com/joshiupendra/spring-boot-3-microservices) - Angular, Java, Spring Boot, Microservices, Kafka, Docker<br>
 [Spring Security Project using OAuth2](https://github.com/joshiupendra/Spring-Security-project) - Java, Spring Boot, DataBase<br>
     </div>
+</div>
+
+<div align="center">
+    <h2 class="section-heading">✏️ Personal Blog</h2>
+    <p>I have my personal travel blog named <a href="https://seemaysadventures.com/"> Seemay's Adventures</a> where I share my travel experience all the world</p>
+
+[![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white)](#)
+[![Blogger](https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white)](#)
 </div>
 
 <div align="center">
