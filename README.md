@@ -40,11 +40,13 @@
 
 <div align="center">
     <h2 class="section-heading">🧑‍💻 GitHub Projects</h2>
+    <p>Here are list of all the projects I have completed with the complete tech stack. Please click on project to know more about them.</p>
+    <div align="left">
 
-[Book Social Network](https://github.com/joshiupendra/book-social-network)<br>
-[E-Commerce Platform using Spring Boot 3 Microservices](https://github.com/joshiupendra/spring-boot-3-microservices)<br>
-[Spring Security Project using OAuth2](https://github.com/joshiupendra/Spring-Security-project)<br>
-
+[Book Social Network](https://github.com/joshiupendra/book-social-network) - Angular, Java, Spring Boot, Docker<br>
+[E-Commerce Platform using Spring Boot 3 Microservices](https://github.com/joshiupendra/spring-boot-3-microservices) - Angular, Java, Spring Boot, Microservices, Kafka, Docker<br>
+[Spring Security Project using OAuth2](https://github.com/joshiupendra/Spring-Security-project) - Java, Spring Boot, DataBase<br>
+    </div>
 </div>
 
 <div align="center">
