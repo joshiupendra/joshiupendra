@@ -108,6 +108,7 @@
 [Book Social Network](https://github.com/joshiupendra/book-social-network) - Angular, Java, Spring Boot, Docker<br>
 [E-Commerce Platform using Spring Boot 3 Microservices](https://github.com/joshiupendra/spring-boot-3-microservices) - Angular, Java, Spring Boot, Microservices, Kafka, Docker<br>
 [Spring Security Project using OAuth2](https://github.com/joshiupendra/Spring-Security-project) - Java, Spring Boot, DataBase<br>
+[One to One Chat Application Using WebSocket](https://github.com/joshiupendra/Chat-Application-using-WebSocket)<br>
     </div>
 </div>
 
