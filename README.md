@@ -91,7 +91,7 @@
 </div>
 
 <div align="center">
-    <h2 class="section-heading">🤖 Artificial Intelligence</h2>
+    <h2 class="section-heading">🤖 Artificial Intelligence</h2> 
     <p>I use AI for personal as well as for professional use to achieve the same task in minimum amount of time possible with mainting quality of work.</p>
 
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
