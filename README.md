@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <h2 class="section-heading">💻 Programming Languages</h2>
+    <h2 class="section-heading">💻 Programming Languages</h2> 
     <P>As a Full Stack Developer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my arsenal. Here are the languages I wield to turn complex problems into elegant solutions.</P>
 
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
