@@ -2,7 +2,7 @@
 <div align="center">
     <h2 class="section-heading">🚀 About Me</h2>
     <p>I'm a Full Stack Developer specializing in Web Application Development. I enjoy Reading and travelling.</p>
-</div>
+</div> 
 
 <div align="center">
     <h2 class="section-heading">💻 Programming Languages</h2> 
