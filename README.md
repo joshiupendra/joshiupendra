@@ -18,7 +18,7 @@
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff)](#)
-</div>
+</div> 
 
 <div align="center">
     <h2 class="section-heading">☁️ Cloud Technologies</h2>
